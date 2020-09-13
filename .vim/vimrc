@@ -1,5 +1,8 @@
 execute pathogen#infect()
 
+filetype plugin indent on
+set autowrite " writes the content of the file automatically if you call 'make'
+
 set expandtab
 set tabstop=4
 set softtabstop=4
