@@ -1,26 +1,26 @@
 [submodule ".vim/bundle/vim-polyglot"]
 	path = .vim/bundle/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
-[submodule "bundle/dracula-theme"]
-	path = bundle/dracula-theme
+[submodule ".vim/bundle/dracula-theme"]
+	path = .vim/bundle/dracula-theme
 	url = https://github.com/dracula/vim
-[submodule "bundle/ejs-syntax"]
-	path = bundle/ejs-syntax
+[submodule ".vim/bundle/ejs-syntax"]
+	path = .vim/bundle/ejs-syntax
 	url = https://github.com/nikvdp/ejs-syntax.git
-[submodule "bundle/vim-surround"]
-	path = bundle/vim-surround
+[submodule ".vim/bundle/vim-surround"]
+	path = .vim/bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
-[submodule "bundle/ale"]
-	path = bundle/ale
+[submodule ".vim/bundle/ale"]
+	path = .vim/bundle/ale
 	url = https://github.com/w0rp/ale.git
-[submodule "bundle/theme-sacredforest"]
-	path = bundle/theme-sacredforest
+[submodule ".vim/bundle/theme-sacredforest"]
+	path = .vim/bundle/theme-sacredforest
 	url = https://github.com/KKPMW/sacredforest-vim.git
-[submodule "bundle/emmet-vim"]
-	path = bundle/emmet-vim
+[submodule ".vim/bundle/emmet-vim"]
+	path = .vim/bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
-[submodule "bundle/vim-prettier"]
-	path = bundle/vim-prettier
+[submodule ".vim/bundle/vim-prettier"]
+	path = .vim/bundle/vim-prettier
 	url = https://github.com/prettier/vim-prettier
 [submodule ".vim/bundle/vim-go"]
 	path = .vim/bundle/vim-go
